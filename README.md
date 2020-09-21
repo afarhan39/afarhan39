@@ -1,4 +1,6 @@
-### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afarhan39&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afarhan39&layout=compact)
 
 <!--
 **afarhan39/afarhan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
